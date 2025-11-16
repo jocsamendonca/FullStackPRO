@@ -1,0 +1,76 @@
+# .gitignore padrão para projetos FullStack
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Diretórios de dependências
+node_modules/
+bower_components/
+
+# Arquivos de ambiente / segredos locais
+.env
+.env.local
+.env.*.local
+
+# Output de build / caches
+dist/
+build/
+out/
+.cache/
+.next/
+.nuxt/
+.vite/
+.public/
+coverage/
+*.lcov
+
+# Ferramentas de empacotamento
+parcel-cache/
+.cache-loader/
+.pnpm-store/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Python (se houver backend em Python)
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+.venv/
+.mypy_cache/
+.pytest_cache/
+
+# Java / JVM (se aplicável)
+target/
+*.class
+
+# Banco de dados local / arquivos temporários
+*.sqlite
+*.sqlite3
+*.db
+*.pem
+
+# Containers / Docker locais
+docker-compose.override.yml
+.docker/
+
+# Outros arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.swo
+99\ -\ codigosBaixados/
