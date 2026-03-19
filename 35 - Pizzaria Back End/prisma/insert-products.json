@@ -1,0 +1,62 @@
+{
+  "pizzas": [
+    {
+      "name": "Pizza Margherita",
+      "price": "35.90",
+      "description": "Molho de tomate, mussarela, manjericão fresco e azeite",
+      "category_id": "ID_DA_CATEGORIA_PIZZAS"
+    },
+    {
+      "name": "Pizza Calabresa",
+      "price": "38.90",
+      "description": "Molho de tomate, mussarela, calabresa e cebola",
+      "category_id": "ID_DA_CATEGORIA_PIZZAS"
+    },
+    {
+      "name": "Pizza Portuguesa",
+      "price": "42.90",
+      "description": "Molho de tomate, mussarela, presunto, ovos, cebola e azeitona",
+      "category_id": "ID_DA_CATEGORIA_PIZZAS"
+    }
+  ],
+  "bebidas": [
+    {
+      "name": "Coca-Cola 350ml",
+      "price": "6.50",
+      "description": "Refrigerante de cola gelado",
+      "category_id": "ID_DA_CATEGORIA_BEBIDAS"
+    },
+    {
+      "name": "Suco de Laranja 300ml",
+      "price": "8.90",
+      "description": "Suco natural de laranja",
+      "category_id": "ID_DA_CATEGORIA_BEBIDAS"
+    },
+    {
+      "name": "Água Mineral 500ml",
+      "price": "3.50",
+      "description": "Água mineral sem gás",
+      "category_id": "ID_DA_CATEGORIA_BEBIDAS"
+    }
+  ],
+  "sobremesas": [
+    {
+      "name": "Pudim de Leite",
+      "price": "12.90",
+      "description": "Pudim cremoso de leite condensado com calda de caramelo",
+      "category_id": "ID_DA_CATEGORIA_SOBREMESAS"
+    },
+    {
+      "name": "Brigadeiro Gourmet",
+      "price": "4.50",
+      "description": "Brigadeiro artesanal com chocolate belga",
+      "category_id": "ID_DA_CATEGORIA_SOBREMESAS"
+    },
+    {
+      "name": "Sorvete 2 Bolas",
+      "price": "9.90",
+      "description": "Duas bolas de sorvete sabores variados",
+      "category_id": "ID_DA_CATEGORIA_SOBREMESAS"
+    }
+  ]
+}
